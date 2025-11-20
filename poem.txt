@@ -4,3 +4,5 @@ Roses are red,
 My layout looks tight,
 Till I check on mobile..
 Now nothing’s aligned right.
+
+It’s a joke about web design — the site looks perfect on a computer, but when viewed on a mobile device the layout breaks and everything becomes misaligned.
